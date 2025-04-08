@@ -54,7 +54,7 @@ This section lists the scripts currently available in the repository. Detailed u
 ## How to Use a Script (General Guide)
 
 1.  Identify the script you need from the "Available Scripts" section above.
-2.  Click the documentation link for that script to view its specific `README.md` file.
+2.  Check the documentation for that script to view its specific `README.md` file.
 3.  Follow the installation and usage instructions provided in that specific documentation.
 4.  Typically, you can get command-line help for a script by running `python <path_to_script.py> --help`.
 
