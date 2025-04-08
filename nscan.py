@@ -661,9 +661,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-"""
-Additional Note:
-- To maintain high code quality, consider adding unit or integration tests that mock responses,
-  verifying each 'verdict' logic condition. That ensures future changes don’t break existing logic.
-"""
