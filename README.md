@@ -45,9 +45,9 @@ New scripts addressing different vulnerabilities or testing techniques will be a
 
 This section lists the scripts currently available in the repository. Detailed usage instructions, specific requirements, and configuration options for each script can be found in their respective documentation files (typically a `README.md` within the script's directory).
 
-* **`nextjs-middleware-bypass-tester/`**
+* **`nscan`**
     * *Description:* Checks for potential middleware bypasses in Next.js applications using the `x-middleware-subrequest` header pattern.
-    * *Documentation:* **./nextjs-middleware-bypass-tester/README.md)** 
+    * *Documentation:*check nscan_readme.md* 
 
 * *... More scripts will be added here as the repository grows ...*
 
