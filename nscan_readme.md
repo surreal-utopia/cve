@@ -65,7 +65,6 @@ This repository contains Python scripts focused on web security research and **a
 
     ```bash
     git clone https://github.com/surreal-utopia/cve.git
-    # (Replace with your actual repository URL if different)
     cd cve
     ```
 
